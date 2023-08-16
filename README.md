@@ -1,2 +1,2 @@
 # testing-api
-this is my first api-testing project .
+This is my first api-testing project .
